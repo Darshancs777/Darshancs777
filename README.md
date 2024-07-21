@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DarshanCS
+- 👋 Hi, I’m Darshan CS
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning Python Full Stack
 
