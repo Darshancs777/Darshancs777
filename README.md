@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darshan CS
-- 👀 I’m interested in Software Engineer 
+-  I’m 👀 for Software Engineer 
 - 🌱 I’m currently learning Python Full Stack
 
 <!---
