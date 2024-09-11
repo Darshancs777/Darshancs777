@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👯 I’m looking for Software Engineer<br>🌱 I’m currently learning Python Full Stack<br>
+<br>👯 I’m looking for Software Engineer Role<br>🌱 I’m currently learning Python Full Stack<br>
 
 
 ## 🌐 Socials:
